@@ -75,8 +75,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maydan12/maydan12/output/snake.svg" alt="Snake animation" />
 
 ###
