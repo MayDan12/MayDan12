@@ -1,59 +1,70 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oluwanimotele+Mayowa!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Oluwanimotele+Mayowa!;Full-Stack+Software+Engineer" alt="Typing SVG" />
 </h1>
-<h3 align="center">A Software Engineer from Lagos, Nigeria</h3>
 
-###
+<h3 align="center">A passionate Software Engineer from Lagos, Nigeria 🇳🇬</h3>
+
+<p align="center">
+  <em>I code like I play guitar — with rhythm, creativity & innovation</em><br>
+  Currently building modern web apps with <strong>PERN</strong> & <strong>Next.js</strong> • ALX Africa Alumnus 🚀
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maydan12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maydan12&show_icons=true&locale=en&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="maydan12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maydan12&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maydan12&show_icons=true&theme=dracula&layout=compact&hide_border=true&card_width=320&langs_count=8" height="165" alt="top languages" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <h1>Technologies</h1>
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,jquery,postgresql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,c,mysql,flask,django" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maydan12&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="github streak" height="150" />
 </div>
 
-###
+<!-- ──────────────────────────────────────────────────────────────────────── -->
 
-<img align="center" height="150" src="https://i.imgflip.com/4oj9un.gif"  />
-<br>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mysql,firebase,tailwind,html,css,javascript,typescript,python,git,github,vscode,figma,vercel&perline=10" alt="tech stack" />
+</p>
 
-<br>
-<div align="center">
-  <h1 align="center">Social Media's</h1>
-  <a href="https://twitter.com/Mayowadan12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+<!-- You can add more icons later when you gain experience in other tools -->
+
+<!-- ──────────────────────────────────────────────────────────────────────── -->
+
+<h2 align="center">Find me around the web 🌍</h2>
+
+<p align="center">
+  <a href="https://twitter.com/Mayowadan12" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="36" alt="Twitter" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daniel-oluwanimotele/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/mayowa_dan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:oluwamayowadan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" />
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/Mayowa_dan" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="36" alt="Telegram" />
   </a>
-  <a href="oluwamayowadan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.t.me/Mayowa_dan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+</p>
 
+<br>
 
-###
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maydan12&layout=compact&card_width=470&theme=dracula&hide_border=false" alt="maydan12" />
+  <img src="https://i.imgflip.com/4oj9un.gif" width="380" alt="coding cat" />
+  <br><br>
+  <em>Let's build something awesome together! ✨</em>
 </div>
 
-
-###
-
-
-
-###
+<!-- 
+  Optional nice additions you can consider later:
+  1. GitHub trophy      → https://github-profile-trophy.vercel.app
+  2. Profile views      → https://komarev.com/ghpvc/?username=maydan12&style=flat-square
+  3. Quote of the day   → https://quotes-github-readme.vercel.app
+  4. Wakatime stats     (after you connect wakatime)
+-->
