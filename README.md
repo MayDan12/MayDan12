@@ -10,15 +10,14 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maydan12&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maydan12&show_icons=true&theme=dracula&layout=compact&hide_border=true&card_width=320&langs_count=8" height="165" alt="top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maydan12&show_icons=true&theme=dracula&cache_seconds=1800" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=maydan12&layout=compact&theme=dracula&cache_seconds=1800" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maydan12&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="github streak" height="150" />
+   <img src="https://streak-stats.demolab.com?user=maydan12&theme=dracula" />
 </div>
 
 <!-- ──────────────────────────────────────────────────────────────────────── -->
