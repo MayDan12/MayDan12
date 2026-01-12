@@ -33,10 +33,10 @@ I enjoy working across the full stack — from crafting clean UIs to designing r
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,jquery,figma,reactnative" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,jquery,figma" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,firebase,supabase" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
