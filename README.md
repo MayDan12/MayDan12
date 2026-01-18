@@ -21,9 +21,9 @@ I enjoy working across the full stack — from crafting clean UIs to designing r
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="  https://github-readme-stats.vercel.app/api?username=Maydan12&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=maydan12&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maydan12&layout=compact&theme=dracula" height="150" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MayDan12&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=MayDan12&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MayDan12&layout=compact&theme=radical)
 </div>
 
 ---
