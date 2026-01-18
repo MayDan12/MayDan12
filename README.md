@@ -21,9 +21,11 @@ I enjoy working across the full stack — from crafting clean UIs to designing r
 ## 📊 GitHub Stats
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MayDan12&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=MayDan12&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MayDan12&layout=compact&theme=radical)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MayDan12&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MayDan12&layout=compact&theme=radical" />
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MayDan12&show_icons=true&theme=radical)
+![GitHub Stats]()
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MayDan12&layout=compact&theme=radical) -->
 </div>
 
 ---
@@ -51,7 +53,7 @@ I enjoy working across the full stack — from crafting clean UIs to designing r
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maydan12&theme=dracula" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MayDan12&theme=radical" />
 </div>
 
 ---
