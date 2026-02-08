@@ -85,6 +85,6 @@ I enjoy working across the full stack — from crafting clean UIs to designing r
 ---
 
 ⭐ **If you like my work, consider giving my repositories a star!**  
-Let’s build something amazing together 🚀🚀🚀
+Let’s build something amazing together 🚀🚀
 
 
